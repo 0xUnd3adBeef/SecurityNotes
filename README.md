@@ -2,6 +2,8 @@
 
 notes? yeah. just notes.
 
+> Note : These notes are made to be opened with obsidian, and are not optimised for github viewing ( i also didn't include images).
+
 This repo is a messy (but functional) dump of everything I’ve learned while grinding HTB’s CPTS cert and messing around with random vuln labs. Expect nmap flags, priv esc tricks, web stuff, injection payloads, AD enum, and more markdown than any normal person should write.
 
 **me:** writes notes  
@@ -38,9 +40,4 @@ Because I forget things. And because it’s kinda fun writing it all down.
 Some of this might be outdated or broken (or just false). I wrote these while learning, which means there are probably errors, oversights, and weird formatting choices. Use at your own risk. Or don’t.
 
 But if it helps you pop a shell faster, you’re welcome.
-
----
-
-### 📬 P.S.
-
 Still jobless atm btw. Hmu if you’re into hiring people like me (🥀🥀💔💔).
