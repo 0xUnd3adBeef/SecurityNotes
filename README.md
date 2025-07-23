@@ -26,6 +26,18 @@ That includes:
 
 If it sounds useful, it probably is. If it sounds wrong, it might be. These notes are for me first, but if they help you too that's cool.
 
+[INE eJPT](https://ine.com/security/certifications/ejpt-certification) Notes :  
+👉 [`/eJPT-EN 1`](./eJPT-EN%201)  
+
+That includes:
+- Information Gathering 
+- Footprinting & Scanning
+- Enumeration
+- Vulnerability assessment
+
+thats quite it !
+> Please note these notes were mostly made my 13 year old me, and WILL contain mistakes (and very bad english, maybe even cringe jokes) !
+> When reading these, keep in mind it was made by a kid, and won't be as "okay-ish" as the CPTS ones.
 ---
 
 ### 🧠 Why Bother?
