@@ -246,7 +246,7 @@ IsDomain     : UNKNOWN
 
 ```
 
-Ayy, here's your commandz for that Kerberos Double Hop problem, comrade:
+
 
 PSCredential Object (Workaround #1) 🛠️:
 ```powershell
