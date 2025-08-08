@@ -1,55 +1,71 @@
-# CHarr-SecurityNotes
+# **Security Notes**
 
-notes? yeah. just notes.
-
-> Note : These notes are made to be opened with obsidian, and are not optimised for github viewing ( i also didn't include images).
-
-This repo is a messy (but functional) dump of everything I’ve learned while grinding HTB’s CPTS cert and messing around with random vuln labs. Expect nmap flags, priv esc tricks, web stuff, injection payloads, AD enum, and more markdown than any normal person should write.
-
-**me:** writes notes  
-**also me:** forgets I wrote them and googles it again anyway
+*Some notes I took while taking different courses*
 
 ---
 
-### 🗂 Where The Huzz At?
+## Overview
 
-[HTB CPTS](https://academy.hackthebox.com/exams/3) Notes :  
-👉 [`/CPTS-EN 1`](./CPTS-EN%201)  
+This repository contains my personal, (un)structured notes from preparing for:
 
-That includes:
-- Privilege escalation (Linux & Windows)
-- Web attacks (XSS, SQLi, command injection, etc.)
-- Active Directory enum & exploitation
-- Password attacks, file transfer tricks, and cheatsheets
-- Enumeration techniques per service
-- Random stuff I didn’t know where to file
+* **HTB CPTS** (Certified Penetration Testing Specialist)
+* **INE eJPT** (eLearnSecurity Junior Penetration Tester)
 
-If it sounds useful, it probably is. If it sounds wrong, it might be. These notes are for me first, but if they help you too that's cool.
+The notes are written in Markdown and optimized for **[Obsidian](https://obsidian.md/)** as a local knowledge base, but can also be read in any Markdown viewer.
 
-[INE eJPT](https://ine.com/security/certifications/ejpt-certification) Notes :  
-👉 [`/eJPT-EN 1`](./eJPT-EN%201)  
-
-That includes:
-- Information Gathering 
-- Footprinting & Scanning
-- Enumeration
-- Vulnerability assessment
-
-thats quite it !
-> Please note these notes were mostly made my 13 year old me, and WILL contain mistakes (and very bad english, maybe even cringe jokes) !
-> When reading these, keep in mind it was made by a kid, and won't be as "okay-ish" as the CPTS ones.
----
-
-### 🧠 Why Bother?
-
-Because I forget things. And because it’s kinda fun writing it all down.
-
+These documents consolidate methodologies, commands, and payloads for **penetration testing, red teaming, and capture-the-flag (CTF) workflows**.
 
 ---
 
-### ⚠️ Disclaimer
+## Content Structure
 
-Some of this might be outdated or broken (or just false). I wrote these while learning, which means there are probably errors, oversights, and weird formatting choices. Use at your own risk. Or don’t.
+### **HTB CPTS Notes** (`/CPTS-EN 1`)
 
-But if it helps you pop a shell faster, you’re welcome.
-Still jobless atm btw. Hmu if you’re into hiring people like me (🥀🥀💔💔).
+Covers:
+
+* Privilege escalation (Linux & Windows)
+* Web exploitation (XSS, SQLi, command injection, etc.)
+* Active Directory enumeration & exploitation
+* Password attacks & credential harvesting
+* File transfer & tunneling techniques
+* Service-specific enumeration checklists
+* Miscellaneous red team tips & scripts
+
+### **INE eJPT Notes** (`/eJPT-EN 1`)
+
+Covers:
+
+* Information gathering & reconnaissance
+* Footprinting & scanning workflows
+* Enumeration strategies
+* Vulnerability assessment and exploitation basics
+
+---
+
+## Usage
+
+* Best viewed in **Obsidian** for navigation, backlinking, and graph view.
+* Compatible with any Markdown editor — may require manual image linking if outside Obsidian.
+* Always **validate techniques** in a safe, authorized environment before operational use.
+
+---
+
+## Disclaimer
+
+These notes are for **educational purposes only**.
+All techniques described should be executed **only** in environments where you have **explicit permission** (client engagements, labs, or CTFs).
+Some material may become outdated as tools and exploits evolve — verify commands before use.
+
+---
+
+## Contact
+
+If these notes were useful, or you’re interested in collaboration in offensive security and red teaming:
+
+* **GitHub:** [@0xUnd3adBeef](https://github.com/0xUnd3adBeef)
+* **Twitter:** [@MohaCHarr](https://twitter.com/MohaCHarr)
+
+---
+
+This style makes it look like a **serious technical reference** rather than a casual learning diary.
+If you want, I can also **auto-generate a clickable table of contents** for all your topics so visitors can instantly jump to any section. That would make this repo look like a polished pentest handbook.
