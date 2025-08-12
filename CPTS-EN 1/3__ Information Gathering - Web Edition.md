@@ -30,7 +30,6 @@ In contrast, passive reconnaissance involves gathering information about the tar
 
 Passive reconnaissance is generally considered stealthier and less likely to trigger alarms than active reconnaissance. However, it may yield less comprehensive information, as it relies on what's already publicly accessible.
 
-# ARBEIT
 
 ## WHOIS Lookup
 
