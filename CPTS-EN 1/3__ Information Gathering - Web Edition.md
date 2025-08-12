@@ -310,5 +310,3 @@ While the exact syntax may vary slightly between search engines, the underlying 
 - Locating Database Backups:
     - `site:example.com inurl:backup`
     - `site:example.com filetype:sql`
-
-# DON'T FORGOR TO CHECK FOR SUB-SUBDOMAINS
